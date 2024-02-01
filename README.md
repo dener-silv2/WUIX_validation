@@ -34,9 +34,9 @@ cd your_repository
 pip install -r requirements.txt
 ```
 
-4. Use the script:
+## The script main script
 
-statistical_analysis.ipynb
+- statistical_analysis.ipynb
 
 
 ## Script Overview
