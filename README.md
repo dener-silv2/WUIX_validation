@@ -1,10 +1,9 @@
-```
 # WUIX_validation
 
 ## Overview
 
-This repository contains a Python script for conducting statistical analysis of WUIX (Wildland-Urban Interface Exposure) results. The script imports village parameters, merges WUIX results with building polygons, prepares visual distributions of the data, tests data normality, and applies statistical methods to assess differences between types of affectation.
-This work is part of WUIX index testing campaing, and presented originally in the **article "TOFILL"**
+This repository contains a Python script for statistical analysis of WUIX (Wildland-Urban Interface Exposure) results. The script imports village parameters, merges WUIX results with building polygons, prepares visual distributions of the data, tests data normality, and applies statistical methods to assess differences between types of affectation.
+This work is part of the WUIX index testing campaign, and was presented originally in the **article "TOFILL"**
 
 ## Usage
 
@@ -46,7 +45,7 @@ The script performs the following steps:
 
 2. **Merge WUIX Results with Building Polygons**: Converts ASCII files to raster TIFF files and then to shapefiles, merges the WUIX results with building polygons, and saves the results to a shapefile.
 
-3. **Join Villages and Prepare Visuals**: Imports data from different villages, prepares visuals showing the distribution of the data.
+3. **Join Villages and Prepare Visuals**: Imports data from different villages, and prepares visuals showing the data distribution.
 
 4. **Test the Normality of the Data**: Tests the normality of the data using the Shapiro-Wilk test and Kolmogorov-Smirnov test.
 
@@ -63,4 +62,3 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgments
 
 '''- [Original Dataset Source](https://example.com)'''
-```
