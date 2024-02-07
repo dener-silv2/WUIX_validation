@@ -61,6 +61,6 @@ The script performs the following steps:
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
 
-## Acknowledgments
+## Acknowledgments and funding
 
-\\- [Original Dataset Source](https://example.com)
+>  This work was financed by National Funds through the Portuguese funding agency, FCT - Fundação para a Ciência e a Tecnologia, within the project INHAVIT, reference MTS/BRB/0086/2020.
