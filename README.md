@@ -5,7 +5,7 @@
 This repository contains a Python script for statistical analysis of WUIX (Wildland-Urban Interface Exposure) results. 
 The script imports village parameters, merges WUIX results with building polygons, prepares visual distributions of the data, tests data normality, and applies statistical methods to assess differences between types of affectation.
 
-* This work is part of the WUIX index testing campaign, and was presented originally in the **article "TOFILL"**
+* This work is part of the WUIX index testing campaign, and was presented originally in the **article: [Assessing the Accuracy of the Wildland–Urban Interface Index in Portuguese Rural Villages’ Context: A Case Study of the 2017 Pedrógão Grande Wildfire](https://doi.org/10.3390/fire7030090)**
 
 ## Usage
 
